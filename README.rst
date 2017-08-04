@@ -97,3 +97,4 @@ Authors
 -------
 
 `drawtree` was written by `Madhusudan Banik <msbanik@gmail.com>`_.
+modified for python3 and jupyter by `Tonghyun Kim <crowdy@outlook.com>`
